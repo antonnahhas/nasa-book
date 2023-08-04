@@ -1,2 +1,11 @@
-# nasa-book
-a website built with node.js express bootstrap and nasa's api, the website resembles a social media were users  create accounts, login in or out and leave comments on images they like.
+in order to run the program, run npm install and cofigure the app.js file.
+
+
+the bcrypt uses salt = 10 
+
+session ends after 3 hours
+
+cookies end after 30 seconds 
+
+poling every 15 seconds 
+
