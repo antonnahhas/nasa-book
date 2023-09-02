@@ -5,8 +5,11 @@ This project is a unique social media platform that integrates with NASA's Astro
 
 # Backend
 Technologies and Frameworks:
+
 Node.js: Server-side runtime environment.
+
 Express: Web application framework for routing and middleware.
+
 SQLite3: Used as the database.
 Sequelize: ORM for database interactions.
 Key Features:
