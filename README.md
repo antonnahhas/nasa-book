@@ -11,35 +11,57 @@ Node.js: Server-side runtime environment.
 Express: Web application framework for routing and middleware.
 
 SQLite3: Used as the database.
+
 Sequelize: ORM for database interactions.
+
 Key Features:
+
 Routes:
 
 admin.js: Handles admin-related functionalities.
+
 home-page.js: Manages the main feed and user interactions with NASA's APOD.
+
 Models:
 
 comments.js: Represents user comments on the images.
+
 user.js: Represents registered users.
+
 Controllers:
 
 feed.js: Manages user comments on images.
+
 log-in.js: Handles user login functionalities.
+
 clients.js: Deals with user registration and session management.
+
 error.js: Handles unexpected errors and routing issues.
 
 
+
 # Frontend
+
 Technologies and Frameworks:
+
 EJS: Embedded JavaScript templates for generating HTML markup.
+
 Bootstrap: For styling and responsive design.
+
 Key Features:
+
 Views:
+
 feed.ejs: Displays the user feed and comments section.
+
 login.ejs: Provides a login interface.
+
 register.ejs: Registration interface for new users.
+
 confirm-pass.ejs: Password confirmation during registration.
+
 errorHandler.ejs: Handles and displays errors to the user.
+
 
 
 ## More information:
